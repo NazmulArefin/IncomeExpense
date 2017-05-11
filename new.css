@@ -1,0 +1,61 @@
+._div{
+	width: 200px;
+	height: 100px;
+}
+a{
+	text-decoration: none;
+}
+.div{
+	width: 200px;
+	height: 20px;
+	background-color: skyblue;
+	text-decoration: none;
+	Cursor: pointer;
+	border: 1px solid #888888;
+}
+.acc{
+	width: 200px;
+	height:auto;
+	border: 1px solid #888888;
+}
+.first{
+	background-color: skyblue;
+}
+.second{
+	background-color: blue;
+	text-decoration: none;
+	Cursor: pointer;
+	list-style-type: none;	
+}
+.third{
+	background-color: green;
+	text-decoration: none;
+	Cursor: pointer;
+	list-style-type: none;
+}
+.area{
+	background-color: pink;
+	width: 200px;
+	height: 200px;
+	color: red;
+}
+.tab{
+	height: 30px;
+}
+.tab a{
+	border: 1px solid #888;
+	background-color: red;
+	text-decoration: none;
+}
+.form{
+	height: 300px;
+	width: 300px;
+	border: 1px solid #888;
+	margin: 4px;
+	padding: 5px;
+}
+#light{
+	position: absolute;
+	top:250px;
+	left:50px;
+}

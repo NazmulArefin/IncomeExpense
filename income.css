@@ -1,0 +1,57 @@
+.clear-fix{
+	clear: both;
+}
+.wrapper{
+	background: linear-gradient(#E8E8E8,#F0F0F0,#F8F8F8);
+}
+.row{
+	height: 40px;
+	width: 500px;
+	/* background-color: blue; */
+	margin: 10px auto;
+}
+.item-name{
+	height: 20px;
+	width: 180px;
+	float: left;
+	padding: 10px;
+	font-family: arial;
+	font-size: 18px;
+	text-align: left;
+	font-weight: bold;
+	color: #444;
+	text-shadow: 1px 1px 1px #999;
+}
+.item-input{
+	height: 30px;
+	width: 278px;
+	float: right;
+	padding: 5px;
+	
+}
+.box-design{
+	height: 30px;
+	width: 300px;
+	padding: 5px;
+	border-radius: 5px;
+	border: 1px solid #D9D9D9;
+}
+.box-design:hover{
+	box-shadow: 1px 1px 1px 1px powderblue;
+}
+.label{
+	font-family: arial;
+	font-size: 15px;
+	text-align: left;
+	font-weight: bold;
+	color: #444;
+}
+.select-style {
+    border: 1px solid #ccc;
+    width: 120px;
+    border-radius: 3px;
+    overflow: hidden;
+}
+.addItemField{
+	display: none; 
+}
